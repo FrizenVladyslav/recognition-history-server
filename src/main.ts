@@ -9,6 +9,7 @@ async function bootstrap() {
 
   const options = new DocumentBuilder()
     .setTitle('Recognition history')
+    .setSchemes(config.IS_PODUCTION ? 'https' : 'http')
     .setDescription('The recognition history API description')
     .setVersion('1.0')
     .build();
