@@ -412,6 +412,11 @@
     ts-morph "^4.0.0"
     typescript "3.4.5"
 
+"@nestjs/serve-static@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/@nestjs/serve-static/-/serve-static-1.0.1.tgz#0a4494a927d98c3709ab01739d9380cae631f274"
+  integrity sha512-XAG76ooUSk8EUILl2f56u66/q2I5n8jyEE8j3FwFihtvzMcOQxOyXnhg8Hk/tizRVTExRLFCA7MEijzevxyofw==
+
 "@nestjs/swagger@^3.1.0":
   version "3.1.0"
   resolved "https://registry.yarnpkg.com/@nestjs/swagger/-/swagger-3.1.0.tgz#eea2d2ef7416a588e5f122b58cd194884e265dc4"
